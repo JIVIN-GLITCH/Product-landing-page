@@ -1,0 +1,67 @@
+.upper-black-box
+{
+background-color: black; 
+color: white; 
+text-align: center; 
+position: absolute; 
+top: 0px; 
+left: 0px;
+width: 1352px; 
+height: 70px; 
+vertical-align: middle; 
+line-height: 70px
+}
+
+.black-box-labels
+{
+	position: relative;
+	padding-left: 20px;
+}
+
+.main-content
+{
+	width: 1350px;
+	height: 700px;
+	position: relative;
+	top: 50px;
+	left: -5px;
+	background-color: silver;
+	text-align: center;
+}
+
+.main-content-text
+{
+	position: relative;
+	top: 30px;
+	left:500px;
+	max-width: 800px;
+	height: 500px;
+}
+
+.image
+{
+	position: absolute; 
+	left: -100px; 
+	top: 50px;
+}
+
+.main-text
+{
+	font-size: 1em; 
+	font-family: Helvetica
+}
+
+.bottom-box
+{
+	background-color: #000128; 
+	color:  white; 
+	text-align: center; 
+	position: relative; 
+	top: -50px; 
+	left: -8px;
+	width: 1352px; 
+	height: 150px; 
+	vertical-align: middle; 
+	line-height: 70px
+
+}
